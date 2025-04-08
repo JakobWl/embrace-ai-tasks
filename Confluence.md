@@ -431,9 +431,9 @@ Mixed lists allow combining different types of lists. Different list types must 
           { "kind": "list", "items": [
             { "kind": "block", "number": "*", "head": "Bullet 1" },
             { "kind": "block", "number": "*", "head": "Bullet 2" }
-          ] }
+          ] },
+          { "kind": "block", "number": "2.1.", "head": "Subsection" }
         ] },
-        { "kind": "block", "number": "2.1.", "head": "Subsection" },
         { "kind": "block", "number": "3.", "head": "Ending" }
       ]
     }
